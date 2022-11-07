@@ -9,7 +9,7 @@ Procedure:
 4) Place notes with the IP addresses assigned
 
 
-Obsevations:
+Observations:
 A) Learning:
 1) Hub sends information to all connected devices, Switch sends information to the specific device.
 2) In a hub, Before adding a new device, first we need to check if ports are available. If no ports are available, then turn off the device first and drag and drop ports.
